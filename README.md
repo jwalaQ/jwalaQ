@@ -4,18 +4,18 @@
 
 ### 🎓 Academic Interests  
 
-:atom: Quantum Computing :atom: || ⚛️ Quantum Machine Learning ⚛️ || 📊 Machine Learning/Deep Learning 📊
+:atom: Quantum Computing :atom: || 📊 Machine Learning/Deep Learning 📊 || ⚛️ Quantum Machine Learning ⚛️
 
 ---
 
 ### Milestones 🏁 
 
-- IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/earner/earned/badge/d4e8f9ad-f0f1-45af-9393-34d55132f319)
-- Successfully completed [Qiskit Global Summer School on **Quantum Machine Learning**](https://qiskit.org/events/summer-school/) (12-23 July, 2021)
-- Solved all 5 exercises of the [IBM Quantum Challenge 2021](https://research.ibm.com/blog/quantum-challenge-2021) (20-26 May, 2021) || 🥇, [Advanced Badge](https://www.credly.com/badges/2d360edf-05c6-4729-9a24-36378e62131b/public_url)
-- Solved 4/5 exercises of the [IBM Quantum Challenge Fall 2020](https://www.ibm.com/blogs/research/2020/10/quantum-challenge-future/) (8-30 November, 2020) || Earned an [Intermediate Badge](https://www.credly.com/earner/earned/badge/acd8284d-a04d-4f07-8bd8-79449d4b17c8)
-- Successfully completed the Qubit-by-Qubit course by IBM and The Coding School (October 2020 - April 2021)
-- Ranked 31st out of 724 teams in the [Qiskit India Challenge](https://medium.com/qiskit/introducing-the-qiskit-india-challenge-a-taste-of-quantum-machine-learning-for-qiskitters-in-india-4780ddbb03ab)
+- IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/badges/d4e8f9ad-f0f1-45af-9393-34d55132f319/public_url)
+- [Qiskit Global Summer School on **Quantum Machine Learning**](https://qiskit.org/events/summer-school/) (12-23 Jul, 2021)
+- [IBM Quantum Challenge 2021](https://research.ibm.com/blog/quantum-challenge-2021) (20-26 May, 2021) || 🥇, [Advanced Badge](https://www.credly.com/badges/2d360edf-05c6-4729-9a24-36378e62131b/public_url)
+- [Qubit-by-Qubit](https://www.qubitbyqubit.org/) course by IBM and The Coding School (Oct, 2020 - Apr, 2021)
+- [IBM Quantum Challenge Fall 2020](https://www.ibm.com/blogs/research/2020/10/quantum-challenge-future/) (8-30 Nov, 2020) || [Intermediate Badge](https://www.credly.com/earner/earned/badge/acd8284d-a04d-4f07-8bd8-79449d4b17c8)
+- [Qiskit India Challenge](https://medium.com/qiskit/introducing-the-qiskit-india-challenge-a-taste-of-quantum-machine-learning-for-qiskitters-in-india-4780ddbb03ab) (Sep, 2020) || Ranked 31st out of 724 teams
 
 ---
 
