@@ -10,6 +10,7 @@
 
 ### Milestones 🏁 
 
+- Qiskit Advocate
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/badges/d4e8f9ad-f0f1-45af-9393-34d55132f319/public_url)
 - [Qiskit Global Summer School on **Quantum Machine Learning**](https://qiskit.org/events/summer-school/) (12-23 Jul, 2021)
 - [IBM Quantum Challenge 2021](https://research.ibm.com/blog/quantum-challenge-2021) (20-26 May, 2021) || 🥇, [Advanced Badge](https://www.credly.com/badges/2d360edf-05c6-4729-9a24-36378e62131b/public_url)
