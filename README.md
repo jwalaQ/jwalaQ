@@ -13,6 +13,7 @@
 - Qiskit Advocate
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/badges/d4e8f9ad-f0f1-45af-9393-34d55132f319/public_url)
 - [Qiskit Global Summer School on **Quantum Machine Learning**](https://qiskit.org/events/summer-school/) (12-23 Jul, 2021)
+- [IBM Quantum Challenge - Africa 2021](https://medium.com/qiskit/ibm-quantum-challenge-africa-how-african-researchers-are-building-a-quantum-community-from-the-5e524f623a99) (9-20 Sep, 2021) || [Advanced Badge](https://www.credly.com/badges/619fda10-37b1-40d4-a741-663122f2ed44/public_url)
 - [IBM Quantum Challenge 2021](https://research.ibm.com/blog/quantum-challenge-2021) (20-26 May, 2021) || 🥇, [Advanced Badge](https://www.credly.com/badges/2d360edf-05c6-4729-9a24-36378e62131b/public_url)
 - [Qubit-by-Qubit](https://www.qubitbyqubit.org/) course by IBM and The Coding School (Oct, 2020 - Apr, 2021)
 - [IBM Quantum Challenge Fall 2020](https://www.ibm.com/blogs/research/2020/10/quantum-challenge-future/) (8-30 Nov, 2020) || [Intermediate Badge](https://www.credly.com/earner/earned/badge/acd8284d-a04d-4f07-8bd8-79449d4b17c8)
