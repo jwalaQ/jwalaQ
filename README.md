@@ -1,6 +1,10 @@
 ## Hi there! Prajjwal here 🙏🏼
 
-### 🎓 Pursuing ***B.E. Computer Science*** and ***M.Sc. Economics*** at BITS, Pilani-Hyderabad Campus
+### 👨‍💼 1 year of experience with Amazon as an SDE
+
+### 👨‍💼 5 month SDE internship with Flipkart
+
+### 🎓 Graduated with ***B.E. Computer Science*** and ***M.Sc. Economics*** from BITS, Pilani-Hyderabad Campus, 2017-2022
 
 ### 🎓 Academic Interests  
 
