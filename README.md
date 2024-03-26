@@ -35,6 +35,12 @@
 
 ---
 
+### Articles
+
+- [Superposition, Measurement and Entanglement](https://www.quantumgrad.com/article/33)
+- [Opportunities in Quantum Computing](https://www.quantumgrad.com/article/32)
+
+
 ### Programming Languages 🖥️ and Libraries 🧮
 
 ```
