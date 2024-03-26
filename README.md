@@ -14,6 +14,7 @@
 
 ### Milestones 🏁 
 
+- AWS Knowledge Badge - Amazon Braket || [Badge](https://www.credly.com/badges/ea72195d-7aa0-455a-b6a8-ab5be848dbfc/public_url)
 - Qiskit Advocate
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/badges/d4e8f9ad-f0f1-45af-9393-34d55132f319/public_url)
 - [Qiskit Global Summer School on **Quantum Machine Learning**](https://qiskit.org/events/summer-school/) (12-23 Jul, 2021)
