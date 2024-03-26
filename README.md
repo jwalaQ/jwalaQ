@@ -53,8 +53,6 @@ Currently exploring: `PyTorch`, `Pennylane`, `Cirq`, `Ocean`
 
 ---
 
-![View Count](https://gpvc.arturio.dev/jwalaQ) 
-
 <a href="https://github.com/jwalaQ">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jwalaQ&&hide=issues&count_private=true&show_icons=true&theme=dark&hide_rank=true" alt="github stats"/>
 </a>
