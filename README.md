@@ -14,6 +14,7 @@
 
 ### Milestones 🏁 
 
+- AWS Knowledge Badge - Serverless || [Badge](https://www.credly.com/badges/8574db36-e740-4fb4-b547-ac9204590769/public_url)
 - AWS Knowledge Badge - Amazon Braket || [Badge](https://www.credly.com/badges/ea72195d-7aa0-455a-b6a8-ab5be848dbfc/public_url)
 - Qiskit Advocate
 - IBM Certified Associate Developer - Quantum Computation using Qiskit v0.2x || [Badge](https://www.credly.com/badges/d4e8f9ad-f0f1-45af-9393-34d55132f319/public_url)
@@ -45,10 +46,9 @@
 ### Programming Languages 🖥️ and Libraries 🧮
 
 ```
-🐍 Python  🟦 R, RStudio  💻 C  ☕ Java  🔡 MATLAB  
+🐍 Python  🟦 R, RStudio  💻 C  ☕ Java  🔡 MATLAB  🖇️ Javascript, TypeScript
 
 
-Currently exploring: JavaScript
 ```
 
 ### Open-Source contribution:  
