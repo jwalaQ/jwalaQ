@@ -1,6 +1,6 @@
 ## Hi there! Prajjwal here 🙏🏼
 
-### 👨‍💼 2 years as an SDE at Amazon
+### 👨‍💼 3 years as an SDE at Amazon
 
 ### 👨‍💼 5 month SDE internship with Flipkart
 
